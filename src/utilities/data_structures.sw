@@ -2,7 +2,7 @@ library data_structures;
 
 use core::ops::Eq;
 use std::*;
-e
+ee
 abi data_structures {
     pub struct Tokens {
        asset: u64,

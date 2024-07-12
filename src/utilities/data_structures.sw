@@ -15,7 +15,7 @@ abi data_structures {
         insurance_principal: u64,
         insurance_interest: u64,
     }  
-wve
+wve34
     pub struct Due {
         debt: u64,
         collateral: u64,
